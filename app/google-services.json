@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957622773890",
+    "project_id": "recordvideo-b678d",
+    "storage_bucket": "recordvideo-b678d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957622773890:android:7612da2664ccdd2f31ac9b",
+        "android_client_info": {
+          "package_name": "com.example.recordvideo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApxrLimazCWIkzG46X5A8LaMq7K315A6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
